@@ -9,9 +9,6 @@ author_profile: true
 # Portfolio
 
 
-Highlight a few flagship projects (add links, images, and short summaries).
-
-
 ## CardioCare Quest
 A telehealth game supporting hypertension self‑management through culturally grounded mini‑games and coaching.
 <img width="998" height="229" alt="image" src="https://github.com/user-attachments/assets/f03521c5-764e-41c0-8ee6-877bea5f147c" />
