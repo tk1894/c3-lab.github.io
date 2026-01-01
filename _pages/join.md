@@ -32,7 +32,10 @@ Good fits often include:
 ## Community Partners
 
 
-If you’re a community organization, clinic, educator, or local/Tribal partner, we’d love to explore collaboration on: research, grant proposal, community activities...
+If you’re a community organization, clinic, educator, or local/Tribal partner, we’d love to explore collaboration on:
 - Co‑designing tools to support care and wellness
 - Running participatory workshops
 - Evaluating technology in real contexts
+- Research
+- Grant proposals
+  
