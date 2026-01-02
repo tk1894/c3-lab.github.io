@@ -9,7 +9,8 @@ author_profile: true
 
 
 
-C3 Lab focuses on research at the intersection of **human‑computer interaction, engaging systems, XAI, and digital health**-with an emphasis on **culture‑centered design** and community partnership.
+C3 Lab in the
+[Computer Science Department at the University of New Haven](https://www.newhaven.edu/engineering/undergraduate-programs/computer-science/index.php), focuses on research at the intersection of **human‑computer interaction, engaging systems, XAI, and digital health**-with an emphasis on **culture‑centered design** and community partnership.
 
 
 We build and study technologies that support **care**, including:
