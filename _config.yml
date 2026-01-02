@@ -30,9 +30,9 @@ defaults:
 
 # Author profile box (left column)
 author:
-  name: "Tochukwu Ikwunne"
+  name: "Tochukwu Ikwunne, Ph.D"
   avatar: "/assets/images/c3-logo.png"
-  bio: "Tochukwu Ikwunne is an Assistant Professor whose research focuses on culture-centered computing, human-computer interaction, XAI, and digital health. He directs the C3 Lab (Culture-Centered Computing for Care), where he co-creates culturally grounded and engaging digital health systems in partnership with communities."
+  bio: "Dr. Tochukwu Ikwunne is an Assistant Professor whose research focuses on culture-centered computing, human-computer interaction, XAI, and digital health. He directs the C3 Lab (Culture-Centered Computing for Care), where he co-creates culturally grounded and engaging digital health systems in partnership with communities."
   location: "New Haven, CT, USA"
   employer: "University of New Haven"
   email: "tikwunne@newhaven.edu"
