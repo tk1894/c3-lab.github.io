@@ -1,6 +1,4 @@
-# ================================
-# Site settings
-# ================================
+# Site
 locale: "en-US"
 title: "C3 Lab"
 subtitle: "Culture-Centered Computing for Care"
@@ -9,48 +7,38 @@ description: "Culture-centered computing and engaging digital health tools for c
 url: "https://c3-lab.github.io"
 baseurl: ""
 
-# ================================
 # Theme
-# ================================
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "default"
 
-# ================================
 # Plugins
-# ================================
 plugins:
   - jekyll-include-cache
 
-# ================================
-# Include custom folders
-# ================================
+# IMPORTANT: build pages stored in _pages/
 include:
   - _pages
 
-# ================================
-# Defaults (applies layout to pages)
-# ================================
+# Collections (optional but helpful)
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Defaults
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
       layout: single
       author_profile: true
 
-# ================================
-# Author profile (left sidebar)
-# ================================
+# Author profile box (left column)
 author:
   name: "Tochukwu Ikwunne"
   avatar: "/assets/images/c3-logo.png"
-  bio: |
-    Tochukwu Ikwunne is an Assistant Professor whose research focuses on culture-centered
-    computing, human-computer interaction, XAI, and digital health. He directs the
-    C3 Lab (Culture-Centered Computing for Care), where he co-creates culturally grounded
-    and engaging digital health systems in partnership with communities. His work advances
-    participatory and research-through-design approaches to improve health, care, and
-    wellness across diverse populations.
+  bio: "Assistant Professor. I direct the C3 Lab (Culture-Centered Computing for Care), where we co-create culturally grounded and engaging digital health systems with communities. My research spans culture-centered computing, HCI, explainable AI, and digital health."
   location: "New Haven, CT, USA"
   employer: "University of New Haven"
   email: "tikwunne@newhaven.edu"
@@ -65,14 +53,17 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/tk1894"
 
-# ================================
+# Top navigation (Minimal Mistakes reads _data/navigation.yml by default,
+# but keeping header_pages doesn't hurt.)
+header_pages:
+  - _pages/portfolio.md
+  - _pages/publications.md
+  - _pages/join.md
+
 # Markdown
-# ================================
 markdown: kramdown
 
-# ================================
 # Footer
-# ================================
 footer:
   links:
     - label: "GitHub"
