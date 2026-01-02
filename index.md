@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "C3 Lab"
+title: "C3 Lab (Culture‑Centered Computing for Care)"
 permalink: /
 author_profile: true
 ---
 
 
-# C3 Lab (Culture‑Centered Computing for Care)
+
 
 
 C3 Lab focuses on research at the intersection of **human‑computer interaction, engaging systems, and digital health**-with an emphasis on **culture‑centered design** and community partnership.
