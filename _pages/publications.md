@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Publications
+
 Graham, A., Arinze Ikwunne, T., & Duval, J. (2025, October). Co-Designing Culturally Grounded Mobile Health Games for Hypertension Management in Indigenous Communities. In Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 1-11).https://dl.acm.org/doi/full/10.1145/3663547.3746321
 
 Bamimore Akodu, R. M., Oyewale, C. T., Ikwunne, T., & Elmimouni, H. (2025, July). Cultural Adaptation Through Digital Identities: Privacy and Self-Expression Among Sub-Saharan Students in Morocco. In Proceedings of the 2025 12th International Conference on Communities & Technologies (pp. 242-249).https://dl.acm.org/doi/full/10.1145/3742800.3742831
