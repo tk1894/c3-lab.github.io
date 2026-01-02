@@ -5,7 +5,7 @@ subtitle: "Culture-Centered Computing for Care"
 name: "C3 Lab"
 description: "Culture-centered computing and engaging digital health tools for care, wellness, and community thriving."
 url: "https://c3-lab.github.io"
-baseurl: ""
+baseurl: ""   # keep empty for user/organization site
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -15,21 +15,15 @@ minimal_mistakes_skin: "default"
 plugins:
   - jekyll-include-cache
 
-# IMPORTANT: build pages stored in _pages/
+# IMPORTANT: publish content in _pages
 include:
   - _pages
 
-# Collections (optional but helpful)
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-# Defaults
+# Collections / Defaults
 defaults:
   - scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
       layout: single
       author_profile: true
@@ -38,7 +32,7 @@ defaults:
 author:
   name: "Tochukwu Ikwunne"
   avatar: "/assets/images/c3-logo.png"
-  bio: "Assistant Professor. I direct the C3 Lab (Culture-Centered Computing for Care), where we co-create culturally grounded and engaging digital health systems with communities. My research spans culture-centered computing, HCI, explainable AI, and digital health."
+  bio: "Tochukwu Ikwunne is an Assistant Professor whose research focuses on culture-centered computing, human-computer interaction, XAI, and digital health. He directs the C3 Lab (Culture-Centered Computing for Care), where he co-creates culturally grounded and engaging digital health systems in partnership with communities."
   location: "New Haven, CT, USA"
   employer: "University of New Haven"
   email: "tikwunne@newhaven.edu"
@@ -53,8 +47,7 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/tk1894"
 
-# Top navigation (Minimal Mistakes reads _data/navigation.yml by default,
-# but keeping header_pages doesn't hurt.)
+# Top navigation (optional—navigation.yml is already enough)
 header_pages:
   - _pages/portfolio.md
   - _pages/publications.md
