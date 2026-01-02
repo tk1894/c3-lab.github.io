@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-C3 Lab focuses on research at the intersection of **human‑computer interaction, engaging systems, and digital health**-with an emphasis on **culture‑centered design** and community partnership.
+C3 Lab focuses on research at the intersection of **human‑computer interaction, engaging systems, XAI, and digital health**-with an emphasis on **culture‑centered design** and community partnership.
 
 
 We build and study technologies that support **care**, including:
