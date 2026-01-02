@@ -5,7 +5,7 @@ main:
     url: /portfolio/
   - title: "Publications"
     url: /publications/
+  - title: "News"
+    url: /news/
   - title: "Work with Us"
     url: /join/
-
-
