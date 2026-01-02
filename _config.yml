@@ -5,7 +5,7 @@ subtitle: "Culture-Centered Computing for Care"
 name: "C3 Lab"
 description: "Culture-centered computing and engaging digital health tools for care, wellness, and community thriving."
 url: "https://tk1894.github.io"
-baseurl: "/c3-lab.github.io"   # keep empty for user/organization site
+baseurl: ""   # keep empty for user/organization site
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
