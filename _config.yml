@@ -32,7 +32,10 @@ defaults:
 author:
   name: "Tochukwu Ikwunne, Ph.D"
   avatar: "/assets/images/c3-logo.png"
-  bio: "Dr. Tochukwu Ikwunne is currently an assistant professor in the [Computer Science Department at the University of New Haven](https://www.newhaven.edu/engineering/undergraduate-programs/computer-science/index.php). He directs the C3 Lab, where he co-creates culturally grounded and engaging digital health systems in partnership with communities."
+  bio: "Dr. Tochukwu Ikwunne is currently an assistant professor in the <a href="https://www.newhaven.edu/engineering/undergraduate-programs/computer-science/index.php" target="_blank" style="color:#007acc; text-decoration:underline;">
+  Computer Science Department at the University of New Haven
+  </a>.  
+  He directs the C3 Lab, where he co-creates culturally grounded and engaging digital health systems in partnership with communities."
   location: "New Haven, CT, USA"
   employer: "University of New Haven"
   email: "tikwunne@newhaven.edu"
