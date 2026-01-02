@@ -1,67 +1,65 @@
 # Site
 locale: "en-US"
 title: "C3 Lab"
-subtitle: "Culture‑Centered Computing for Care"
+subtitle: "Culture-Centered Computing for Care"
 name: "C3 Lab"
-description: "Culture‑centered computing and engaging digital health tools for care, wellness, and community thriving."
+description: "Culture-centered computing and engaging digital health tools for care, wellness, and community thriving."
 url: "https://c3-lab.github.io"
 baseurl: ""
-
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "default"
 
-
 # Plugins
 plugins:
-- jekyll-include-cache
-
+  - jekyll-include-cache
 
 # Defaults
 defaults:
-- scope:
-path: ""
-type: "pages"
-values:
-layout: single
-author_profile: true
-
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
 
 # Author profile box (left column)
 author:
-name: "Tochukwu Ikwunne"
-avatar: "/assets/images/c3-logo.png"
-bio: "Tochukwu Ikwunne is an Assistant Professor whose research focuses on culture-centered computing, human-computer interaction, XAI, and digital health. He directs the C3 Lab (Culture-Centered Computing for Care), where he co-creates culturally grounded and engaging digital health systems in partnership with communities. His work advances participatory and research-through-design approaches to improve health, care, and wellness, diverse populations"
-location: "New Haven, CT, USA"
-employer: "University of New Hven"
-email: "tikwunne@newhaven.edu"
-links:
-- label: "Google Scholar"
-icon: "fas fa-graduation-cap"
-url: "https://scholar.google.com/citations?user=BS0AKGkAAAAJ&hl=en&oi=ao"
-- label: "ORCID"
-icon: "fab fa-orcid"
-url: "https://orcid.org/0000-0002-6408-0172"
-- label: "GitHub"
-icon: "fab fa-github"
-url: "https://github.com/tk1894?tab=repositories"
-
+  name: "Tochukwu Ikwunne"
+  avatar: "/assets/images/c3-logo.png"
+  bio: |
+    Tochukwu Ikwunne is an Assistant Professor whose research focuses on culture-centered computing,
+    human-computer interaction, XAI, and digital health. He directs the C3 Lab (Culture-Centered
+    Computing for Care), where he co-creates culturally grounded and engaging digital health systems
+    in partnership with communities. His work advances participatory and research-through-design
+    approaches to improve health, care, and wellness across diverse populations.
+  location: "New Haven, CT, USA"
+  employer: "University of New Haven"
+  email: "tikwunne@newhaven.edu"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=BS0AKGkAAAAJ&hl=en&oi=ao"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-6408-0172"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/tk1894?tab=repositories"
 
 # Top navigation
 header_pages:
-- _pages/portfolio.md
-- _pages/publications.md
-- _pages/join.md
-
+  - _pages/portfolio.md
+  - _pages/publications.md
+  - _pages/join.md
 
 # Markdown
 markdown: kramdown
 
-
 # Footer
 footer:
-links:
-- label: "GitHub"
-icon: "fab fa-github"
-url: "https://github.com/tk1894?tab=repositories"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/tk1894?tab=repositories"
